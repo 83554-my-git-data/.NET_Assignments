@@ -1,0 +1,15 @@
+F:\DAC\DAC\Assignment\C#_Assignment\Assignment_1\Question_6\bin\Debug\net6.0\Question_6.exe
+F:\DAC\DAC\Assignment\C#_Assignment\Assignment_1\Question_6\bin\Debug\net6.0\Question_6.deps.json
+F:\DAC\DAC\Assignment\C#_Assignment\Assignment_1\Question_6\bin\Debug\net6.0\Question_6.runtimeconfig.json
+F:\DAC\DAC\Assignment\C#_Assignment\Assignment_1\Question_6\bin\Debug\net6.0\Question_6.dll
+F:\DAC\DAC\Assignment\C#_Assignment\Assignment_1\Question_6\bin\Debug\net6.0\Question_6.pdb
+F:\DAC\DAC\Assignment\C#_Assignment\Assignment_1\Question_6\obj\Debug\net6.0\Question_6.GeneratedMSBuildEditorConfig.editorconfig
+F:\DAC\DAC\Assignment\C#_Assignment\Assignment_1\Question_6\obj\Debug\net6.0\Question_6.AssemblyInfoInputs.cache
+F:\DAC\DAC\Assignment\C#_Assignment\Assignment_1\Question_6\obj\Debug\net6.0\Question_6.AssemblyInfo.cs
+F:\DAC\DAC\Assignment\C#_Assignment\Assignment_1\Question_6\obj\Debug\net6.0\Question_6.csproj.CoreCompileInputs.cache
+F:\DAC\DAC\Assignment\C#_Assignment\Assignment_1\Question_6\obj\Debug\net6.0\Question_6.sourcelink.json
+F:\DAC\DAC\Assignment\C#_Assignment\Assignment_1\Question_6\obj\Debug\net6.0\Question_6.dll
+F:\DAC\DAC\Assignment\C#_Assignment\Assignment_1\Question_6\obj\Debug\net6.0\refint\Question_6.dll
+F:\DAC\DAC\Assignment\C#_Assignment\Assignment_1\Question_6\obj\Debug\net6.0\Question_6.pdb
+F:\DAC\DAC\Assignment\C#_Assignment\Assignment_1\Question_6\obj\Debug\net6.0\Question_6.genruntimeconfig.cache
+F:\DAC\DAC\Assignment\C#_Assignment\Assignment_1\Question_6\obj\Debug\net6.0\ref\Question_6.dll
